@@ -1,18 +1,8 @@
-
-#include <AccelStepper.h>
-
 // Include NewPing Library
 #include "NewPing.h"
 
-// Define a stepper and the pins it will use
-AccelStepper stepper(1,7,6);
-int driverENA = 5; 
-const int buzzer = 9; //buzzer to arduino pin 9
-int led = 10; // the pin the LED is connected to
 
 // This uses Serial Monitor to display Range Finder distance readings
- 
-
  
 // Hook up HC-SR04 with Trig to Arduino Pin 10, Echo to Arduino pin 13
 // Maximum Distance is 400 cm
