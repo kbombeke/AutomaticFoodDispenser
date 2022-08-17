@@ -7,6 +7,13 @@ In this project, I wanted to make an automatic food dispenser for animals, allow
 
 In addition, I wanted to make a food dispenser in wood, with a strong mechanical solution as well (in contrast to all these DIY food dispensers using plastic bottles and glue).
 
+<img width="999" alt="Schermafbeelding 2022-08-17 om 20 28 00" src="https://user-images.githubusercontent.com/111368793/185215497-a6db2f38-88d3-4ef3-a8ba-dc6732e39c28.png">
+
+
+
+<img width="942" alt="Schermafbeelding 2022-08-17 om 20 28 22" src="https://user-images.githubusercontent.com/111368793/185215516-4e6cae5c-b038-4ecb-b894-280799bd8a5f.png">
+
+
 
 Here's a picture of the built!
 
