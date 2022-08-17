@@ -1,2 +1,2 @@
 # AutomaticFoodDispenser
-Automatic food dispenser for dogs
+Automatic food dispenser allowing different rewarding functionalities
