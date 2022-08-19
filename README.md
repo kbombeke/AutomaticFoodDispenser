@@ -16,7 +16,7 @@ In addition, I wanted to make a food dispenser in wood, with a strong mechanical
 
 
 Here are some pictures of the built!
-<img width="400" alt="Schermafbeelding 2022-08-17 om 20 28 22" src="https://user-images.githubusercontent.com/111368793/185571822-53104f0b-4a2e-4525-a640-37b24dc6ace2.png">
+<img width="300" alt="Schermafbeelding 2022-08-17 om 20 28 22" src="https://user-images.githubusercontent.com/111368793/185571822-53104f0b-4a2e-4525-a640-37b24dc6ace2.png">
 
 
 
